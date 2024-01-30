@@ -1,2 +1,2 @@
 
-print('Estoy editando el fichero')
+print('Estoy editando el ficherolog')
